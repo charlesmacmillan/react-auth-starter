@@ -10,10 +10,10 @@
     2. `SECRET=<whatever>`
     
 - Then:
-    - `npm run build`
+    1. `npm run build`
     
 - Then, in two seperate terminals, run: 
-    - `nodemon server.js`
-    - `npm start`
+    1. `nodemon server.js`
+    2. `npm start`
     
 - confirm that auth is working, and procede to code your app!
