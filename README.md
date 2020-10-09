@@ -9,7 +9,7 @@
     1. `DATABASE_URL=<database URL>`
     2. `SECRET=<whatever>`
     
-- Then:
+- Then build the production code:
     1. `npm run build`
     
 - Then, in two seperate terminals, run: 
